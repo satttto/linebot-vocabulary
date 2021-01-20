@@ -7,4 +7,4 @@ gas(Google apps script)を使ったプロジェクトです。わからなかっ
 - 50日経過した単語は削除
 
 
-こちら[https://docs.google.com/spreadsheets/d/16jWcdkhSVfqTtAn58pDsIqRzN-labrADVeIk-4j70jY/edit?usp=sharing]()でスプレッドシートを開けます。コードを見るには[ツール]->[スクリプトエディタ]と進んでください。
+[こちら](https://docs.google.com/spreadsheets/d/16jWcdkhSVfqTtAn58pDsIqRzN-labrADVeIk-4j70jY/edit?usp=sharing)でスプレッドシートを開けます。コードを見るには[ツール]->[スクリプトエディタ]と進んでください。
