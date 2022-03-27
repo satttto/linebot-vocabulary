@@ -1,4 +1,4 @@
-### 現在アプリを停止しています
+### ※現在アプリを停止しています
 
 # line-bot_English_vocabulary
 
