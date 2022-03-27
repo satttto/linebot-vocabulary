@@ -1,3 +1,5 @@
+### 現在アプリを停止しています
+
 # line-bot_English_vocabulary
 
 gas(Google apps script)を使ったプロジェクトです。わからなかった英語表現をLINEで送信すると、意味を返してくれます。その後、その表現を忘れないように毎日以下のルールで繰り返しLINEを送ってくれます。
